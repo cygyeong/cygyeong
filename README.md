@@ -1,6 +1,5 @@
 ### Hi there 👋
-## 🌱 I’m currently learning
-초보예용
+## 프론트엔드 개발자 최유경입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyan22g)](https://solved.ac/cyan22g/)
 
